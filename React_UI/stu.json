@@ -1,0 +1,27 @@
+[  {    "id": 123456,    "name": "John Doe",    "gpa": 3.75,    "courses": ["Mathematics", "English", "Physics"]
+  },
+  {
+    "id": 234567,
+    "name": "Jane Smith",
+    "gpa": 3.85,
+    "courses": ["Chemistry", "Biology", "Spanish"]
+  },
+  {
+    "id": 345678,
+    "name": "Bob Johnson",
+    "gpa": 3.25,
+    "courses": ["History", "Political Science", "Economics"]
+  },
+  {
+    "id": 456789,
+    "name": "Sara Williams",
+    "gpa": 4.0,
+    "courses": ["Computer Science", "Data Structures", "Algorithms"]
+  },
+  {
+    "id": 567890,
+    "name": "Mike Lee",
+    "gpa": 2.9,
+    "courses": ["Art", "Music", "Theater"]
+  }
+]
